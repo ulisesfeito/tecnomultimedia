@@ -1,7 +1,7 @@
 //Ulises,Feito
-//tp2
-//Ilusión Óptica Interactiva
-//lik a video  https://www.youtube.com/watch?v=FKcDX2lSCVE&ab_channel=UlisesFeito
+//tp3
+//juego
+//lik a video  https://www.youtube.com/watch?v=KcDX2lSCVE&ab_channel=UlisesFeito
 float rot;
 float x, y;
 
